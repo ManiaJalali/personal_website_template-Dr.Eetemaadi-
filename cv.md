@@ -9,13 +9,12 @@ comments: false
 ---
 
 
-# ekhteshash
-
-werwe
-rwe
+# My CV
+ 
+ CE student at IUST
 
 ## Tehran
-lsdfksd
+I moved to Tehran in 2024.
 
 ### Azadi
 ### Enghelab
@@ -27,7 +26,7 @@ My favorite website is [yahoo](http://www.yahoo.com).
 
 
 ## Esfahan
-ldkfjs
+I was born and raisd in Isfahan and left this town for reciving higher education.
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
