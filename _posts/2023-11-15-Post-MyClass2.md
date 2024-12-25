@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: چه هوای خوبی
+title: عجب هوای خوبی
 ---
 
 - We wrote some code
