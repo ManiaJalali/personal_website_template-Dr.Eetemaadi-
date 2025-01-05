@@ -12,5 +12,5 @@ comments: true
 
 ![WelcomePicture](image/Screenshot%202025-01-05%20080038.png)
 
--[sample item 1](https://run.liara.fccourse)
+-[sample item 1](https://fccourse.liara.run)
 -sample item 2
