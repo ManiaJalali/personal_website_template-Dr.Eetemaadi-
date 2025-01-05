@@ -1,3 +1,8 @@
+---
+layout: posts
+title: table
+---
+
 | Name | FamilyName |
 |------|------------|
 | Mania| Jalali     |
