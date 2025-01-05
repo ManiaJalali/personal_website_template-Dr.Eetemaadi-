@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "MyFinal"
+    url: /MyFinal/
   - title: "khatereh"
     url: /khatereh/
   - title: "CV"
@@ -16,8 +18,6 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: "MyFinal"
-    url: /MyFinal/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
