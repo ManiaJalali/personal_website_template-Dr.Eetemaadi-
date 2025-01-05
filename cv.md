@@ -11,7 +11,7 @@ comments: false
 
 # My CV
  
- CE student at IUST
+CE student at IUST
 
 ## Tehran
 I moved to Tehran in 2024.
