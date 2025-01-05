@@ -10,7 +10,7 @@ comments: true
 
 # Exam day shots
 
-![WelcomePicture](/assets/image/final.png)
+![WelcomePicture](/assets/images/final.png)
     <!-- image_path: /assets/images/1.jpg -->
 
 -[sample item 1](https://fccourse.liara.run)
