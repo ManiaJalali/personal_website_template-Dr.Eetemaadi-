@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "MyFinal"
-  url: /MyFinal/
+    url: /MyFinal/
   - title: "khatereh"
     url: /khatereh/
   - title: "CV"
