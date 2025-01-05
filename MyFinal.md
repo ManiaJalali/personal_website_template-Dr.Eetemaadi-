@@ -10,7 +10,7 @@ comments: true
 
 # Exam day shots
 
-![WelcomePicture](image\Screenshot 2025-01-05 080038.png)
+![WelcomePicture](image/final.png)
 
 -[sample item 1](https://fccourse.liara.run)
 -sample item 2
